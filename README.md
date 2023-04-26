@@ -1,2 +1,2 @@
 # Meus Jupyter Notebooks
-### Anotações feitas do curso de Python da Lets Code durante o Santander Coders
+### Minhas anotações do Curso de Python realizado pela Lets Code/Santander
